@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "prueba uno",
+      "slug": "slug prueba uno",
+      "venue": "venue sede",
+      "address": "54 avda new york",
+      "performers": "dj juan",
+      "date": "june 09, 2021",
+      "time": "10:00 PM est",
+      "description": "gran bailanta",
+      "image": "/images/sample/event1.png"
+    },
+    {
+      "id": "2",
+      "name": "prueba dos",
+      "slug": "slug prueba dos",
+      "venue": "venue sede dos",
+      "address": "54 avda new york",
+      "performers": "dj dolores",
+      "date": "june 09, 2021",
+      "time": "10:00 PM est",
+      "description": "gran bailanta",
+      "image": "/images/sample/event2.png"
+    },
+    {
+      "id": "3",
+      "name": "prueba tres",
+      "slug": "slug prueba tres",
+      "venue": "venue = sede  tres",
+      "address": "54 avda new york",
+      "performers": "dj maria",
+      "date": "june 09, 2021",
+      "time": "10:00 PM est",
+      "description": "gran bailanta",
+      "image": "/images/sample/event3.png"
+    }
+  ]
+}
